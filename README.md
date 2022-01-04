@@ -4,4 +4,4 @@ Objetivo: Recriação da interface para fins didáticos
 
 Estudante: Antonio Alves
 
-<img src="./assets/yoga.png>"
+<img src="./assets/yoga.png">
