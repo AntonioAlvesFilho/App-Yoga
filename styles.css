@@ -21,7 +21,20 @@
 }
 
 #tim {
-    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    height: 18px;
+    left: 0.33px;
+    right: 1.67px;
+    top: -6px;
+
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.333333px;
+
+    color: #000000;
 }
 
 #ui {
