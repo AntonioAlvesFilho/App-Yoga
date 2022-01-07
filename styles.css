@@ -2,8 +2,66 @@
     position: relative;
     width: 414px;
     height: 896px;
-
     background: #FFFFFF;
+    display: inline-block;
+}
+
+#bar {
+    position: absolute;
+    Width: 414px;
+    Height: 46px;
+}
+
+#time {
+    position: absolute;
+    width: 56px;
+    height: 23px;
+    left: 21px;
+    top: 8px;
+}
+
+#tim {
+    font-family: 'Roboto', sans-serif;
+}
+
+#ui {
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    right: 14px;
+    top: 15px;
+}
+
+#si {
+    width: 17px;
+    height: 10.67px;
+    right: 0.33px;
+    top: 0.67px;
+}
+
+#wi {
+    width: 15.33px;
+    height: 11px;
+    Top: 1px;
+    Left: 20px;
+}
+
+#bor {
+    position: absolute;
+    top: 2.33px;
+    left: 43px;
+}
+
+#capa {
+    position: absolute;
+    top: 4.33px;
+    left: 45px;
+}
+
+#cap {
+    position: absolute;
+    top: 6px;
+    left: 66px;
 }
 
 #d5 {
@@ -18,10 +76,7 @@
 #app {
     position: absolute;
     left: 27px;
-    right: 27px;
     top: 44px;
-    bottom: 20px;
-
 }
 
 #d2 {
@@ -40,6 +95,7 @@
     background: #F7F7F7;
     box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
     border-radius: 10px;
+    border: none;
 }
 
 #d3 {
@@ -59,6 +115,7 @@
     background: #F7F7F7;
     box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
     border-radius: 10px;
+    border: none;
 }
 
 #d4 {
@@ -145,7 +202,6 @@ button {
     position: absolute;
     left: 0%;
     right: 109px;
-    top: 8px;
     bottom: 8px;
 
 }
@@ -154,13 +210,111 @@ button {
     position: absolute;
     left: 52.5px;
     right: 53.5px;
-    top: 6.5px;
     bottom: 6.5px;
 }
 
 #fb {
     position: absolute;
     left: 108px;
-    top: 10px;
     bottom: 6px;
+}
+
+#div10 {
+    box-sizing: border-box;
+    display: inline-block;
+    position: absolute;
+    width: 414px;
+    height: 896px;
+    margin-left: 33px;
+    background: #FFFFFF;
+}
+
+#muie {
+    position: absolute;
+    width: 311.05px;
+    height: 239px;
+    left: 51px;
+    top: 142px;
+}
+
+
+#ink1 {
+    position: absolute;
+    top: 56.24px;
+    left: 155.72px;
+}
+
+#ink2 {
+    position: absolute;
+    top: 56.24px;
+    left: 158.97px;
+}
+
+#ink3 {
+    position: absolute;
+    top: 56.96px;
+    left: 145.27px;
+}
+
+#ink4 {
+    position: absolute;
+    top: 70.66px;
+    left: 153.92px;
+}
+
+#bol {
+    position: absolute;
+    width: 64px;
+    height: 10px;
+    top: 485px;
+    left: 175px;
+}
+
+#b1 {
+    left: 27px;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+
+#b2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+
+#b3 {
+    right: 0;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+
+#text1 {
+    position: absolute;
+    width: 327px;
+    height: 176px;
+    left: 43px;
+    top: 576px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#butt {
+    width: 173px;
+    height: 46px;
+    left: 121px;
+    bottom: 121px;
+
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    font-weight: bolder;
 }
